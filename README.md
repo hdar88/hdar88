@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning full stack developement and deployment<br>💬 Ask me about anything<br>⚡ Fun fact: Don't need approvals to merge.
+🌱 I’m currently learning full stack development and deployment<br>💬 Ask me about anything<br>⚡ Fun fact: Don't need approvals to merge.
 
 
 ## 🌐 Socials:
